@@ -2,8 +2,8 @@ package simple_factory
 
 import "fmt"
 
-type Car interface {
-	Open()
+type car interface {
+	open()
 }
 
 // BMW 实现Car
@@ -11,7 +11,7 @@ type BMW struct {
 	name string
 }
 
-func NewCar(name string) Car {
+func NewCar(name string) car {
 	switch name {
 	case "bmw":
 		return &BMW{name: name}
@@ -22,7 +22,7 @@ func NewCar(name string) Car {
 }
 
 // Open bmw重写Open
-func (b *BMW) Open() {
+func (b *BMW) open() {
 	fmt.Println(b.name + "启动")
 }
 
@@ -32,6 +32,6 @@ type BenZ struct {
 }
 
 // Open benz重写Open
-func (b *BenZ) Open() {
+func (b *BenZ) open() {
 	fmt.Println(b.name + "启动")
 }

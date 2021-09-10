@@ -7,7 +7,7 @@ func TestBMW(t *testing.T) {
 	if car == nil {
 		t.Fail()
 	}
-	car.Open()
+	car.open()
 	// 运行结果:bmw启动
 }
 
@@ -16,6 +16,6 @@ func TestBenZ(t *testing.T) {
 	if car == nil {
 		t.Fail()
 	}
-	car.Open()
+	car.open()
 	// 运行结果:benz启动
 }
