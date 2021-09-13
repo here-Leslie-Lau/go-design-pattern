@@ -8,7 +8,7 @@ design pattern implement by golang
 
     - 简单工厂(simple factory) 🪝
     - 工厂方法(factory method) 🪝
-    - 抽象工厂(abstract factory)
+    - 抽象工厂(abstract factory) 🪝
     - 建造者模式(builder pattern)
 
 
