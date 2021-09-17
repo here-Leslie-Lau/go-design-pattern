@@ -6,12 +6,12 @@ design pattern implement by golang
 
 1. 创造型模式(creational patterns)
 
-    - 简单工厂(simple factory) 🪝
-    - 工厂方法(factory method) 🪝
-    - 抽象工厂(abstract factory) 🪝
-    - 建造者模式(builder pattern) 🪝
-    - 原型模式(prototype pattern) 🪝
-    - 单例模式(singleton pattern) 🪝
+    - [简单工厂(simple factory)](https://github.com/here-Leslie-Lau/go-design-pattern/tree/master/creational/simple_factory) 🪝
+    - [工厂方法(factory method)](https://github.com/here-Leslie-Lau/go-design-pattern/tree/master/creational/factory_method) 🪝
+    - [抽象工厂(abstract factory)](https://github.com/here-Leslie-Lau/go-design-pattern/tree/master/creational/abstract_factory) 🪝
+    - [建造者模式(builder pattern)](https://github.com/here-Leslie-Lau/go-design-pattern/tree/master/creational/builder) 🪝
+    - [原型模式(prototype pattern)](https://github.com/here-Leslie-Lau/go-design-pattern/tree/master/creational/prototype) 🪝
+    - [单例模式(singleton pattern)](https://github.com/here-Leslie-Lau/go-design-pattern/tree/master/creational/singleton) 🪝
 
 
 2. 结构性模式(structural patterns)
