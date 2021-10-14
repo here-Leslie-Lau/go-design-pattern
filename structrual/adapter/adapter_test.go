@@ -8,7 +8,7 @@ import (
 func TestAdapter(t *testing.T) {
 	english := newEnglish()
 	talker := &languageAdapter{english: english}
-	result := talker.talk()
+	result := talker.hello()
 	if strings.Contains(result, "hello") {
 		t.Fail()
 	}

@@ -18,17 +18,12 @@ func (e *english) hello() string {
 	return "hello world!"
 }
 
-// talker 客户端接口
-type talker interface {
-	talk() string
-}
-
 // languageAdapter 语言适配器，实现客户端接口talker，翻译语言
 type languageAdapter struct {
 	english iEnglish
 }
 
-func (i *languageAdapter) talk() string {
+func (i *languageAdapter) hello() string {
 	result := i.english.hello()
 	if strings.Contains(result, "hello") {
 		return "你好 世界！"
