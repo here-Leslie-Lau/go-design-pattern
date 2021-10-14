@@ -15,3 +15,5 @@ design pattern implement by golang
 
 
 2. 结构性模式(structural patterns)
+
+    - [适配器模式(adapter pattern)](https://github.com/here-Leslie-Lau/go-design-pattern/tree/master/structrual/adapter) 🪝
