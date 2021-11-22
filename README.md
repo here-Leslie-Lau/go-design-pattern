@@ -18,3 +18,4 @@ design pattern implement by golang
 
     - [适配器模式(adapter pattern)](https://github.com/here-Leslie-Lau/go-design-pattern/tree/master/structrual/adapter) 🪝
     - [桥接模式(bridge pattern)](https://github.com/here-Leslie-Lau/go-design-pattern/tree/master/structrual/bridge) 🪝
+    - [组合模式(composite pattern)](https://github.com/here-Leslie-Lau/go-design-pattern/tree/master/structrual/composite)
