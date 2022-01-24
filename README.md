@@ -20,3 +20,7 @@ design pattern implement by golang
     - [桥接模式(bridge pattern)](https://github.com/here-Leslie-Lau/go-design-pattern/tree/master/structrual/bridge) 🪝
     - [组合模式(composite pattern)](https://github.com/here-Leslie-Lau/go-design-pattern/tree/master/structrual/composite) 🪝
     - [装饰模式(decorate pattern)](https://github.com/here-Leslie-Lau/go-design-pattern/tree/master/structrual/decorate) 🪝
+
+3. 行为模式(behavior patterns)
+
+   - [命令模式(command pattern)](https://github.com/here-Leslie-Lau/go-design-pattern/tree/master/behavior/command) 🪝
