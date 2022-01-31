@@ -4,6 +4,10 @@ design pattern implement by golang
 
 <hr/>
 
+下面是设计模式实现链接，具体的核心代码分别写在子目录下的设计模式同名文件内，调用代码(即客户端代码)则是子目录下的测试文件内。
+
+带🪝 符号的代表开发完成。
+
 1. 创造型模式(creational patterns)
 
     - [简单工厂(simple factory)](https://github.com/here-Leslie-Lau/go-design-pattern/tree/master/creational/simple_factory) 🪝
@@ -20,7 +24,7 @@ design pattern implement by golang
     - [桥接模式(bridge pattern)](https://github.com/here-Leslie-Lau/go-design-pattern/tree/master/structrual/bridge) 🪝
     - [组合模式(composite pattern)](https://github.com/here-Leslie-Lau/go-design-pattern/tree/master/structrual/composite) 🪝
     - [装饰模式(decorate pattern)](https://github.com/here-Leslie-Lau/go-design-pattern/tree/master/structrual/decorate) 🪝
-    - [享元模式(flyweight pattern)](https://github.com/here-Leslie-Lau/go-design-pattern/tree/master/structrual/flyweight)
+    - [享元模式(flyweight pattern)](https://github.com/here-Leslie-Lau/go-design-pattern/tree/master/structrual/flyweight) 🪝
 
 3. 行为模式(behavior patterns)
 
