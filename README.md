@@ -25,6 +25,7 @@ design pattern implement by golang
     - [组合模式(composite pattern)](https://github.com/here-Leslie-Lau/go-design-pattern/tree/master/structrual/composite) 🪝
     - [装饰模式(decorate pattern)](https://github.com/here-Leslie-Lau/go-design-pattern/tree/master/structrual/decorate) 🪝
     - [享元模式(flyweight pattern)](https://github.com/here-Leslie-Lau/go-design-pattern/tree/master/structrual/flyweight) 🪝
+    - [代理模式(proxy pattern)](https://github.com/here-Leslie-Lau/go-design-pattern/tree/master/structrual/proxy)
 
 3. 行为模式(behavior patterns)
 
