@@ -30,4 +30,4 @@ design pattern implement by golang
 3. 行为模式(behavior patterns)
 
    - [命令模式(command pattern)](https://github.com/here-Leslie-Lau/go-design-pattern/tree/master/behavior/command) 🪝
-   - [中介者模式(mediator pattern)](https://github.com/here-Leslie-Lau/go-design-pattern/tree/master/behavior/mediator)
+   - [中介者模式(mediator pattern)](https://github.com/here-Leslie-Lau/go-design-pattern/tree/master/behavior/mediator) 🪝
