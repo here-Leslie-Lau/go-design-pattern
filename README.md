@@ -31,4 +31,4 @@ design pattern implement by golang
 
    - [命令模式(command pattern)](https://github.com/here-Leslie-Lau/go-design-pattern/tree/master/behavior/command) 🪝
    - [中介者模式(mediator pattern)](https://github.com/here-Leslie-Lau/go-design-pattern/tree/master/behavior/mediator) 🪝
-   - [责任链模式(chain of responsibility)](https://github.com/here-Leslie-Lau/go-design-pattern/tree/master/behavior/chain) 🪝
+   - [责任链模式(chain of responsibility)](https://github.com/here-Leslie-Lau/go-design-pattern/tree/master/behavior/chain_responsibility) 🪝
